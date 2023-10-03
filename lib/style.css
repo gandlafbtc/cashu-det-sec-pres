@@ -1,0 +1,9 @@
+code {
+ background-color: transparent !important;
+ color: #ffffff !important;
+}
+
+pre span code  {
+ background-color: transparent !important;
+ color: #ffffff !important;
+}
